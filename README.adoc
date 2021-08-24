@@ -1,0 +1,9 @@
+== Overview
+
+Simple capture of Python Virtual Envs (venvs).
+Typically to enbale fast setup of new systems or to retreat to a _known good_ when Python goes wrong.
+
+Mainly used by *Ansible* and especially *AgnosticD*
+
+One day to be replaced by Ansible Execution Environments
+
